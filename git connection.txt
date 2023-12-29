@@ -1,0 +1,20 @@
+                    GIT CONNECTION
+•	download git from google, install it in the PC
+•	in your folder that you want to upload in repo, right click kr k git bash here krdo
+1.	git config --global user.name "Mahnoor Yameen"     khud k names    shift +insert se paste h
+2.	git config --global user.email "mahnooryameen321@gmail.com"
+
+
+          NOW IN VS CODE  IN POWERSHELL:
+
+first time:
+1.	git init
+2.	git add .
+3.	git commit -m "your message"
+4.	git remote add origin "repo link"  https://github.com/mahnooryameen/backend
+5.	git push -u origin master
+
+everytime:
+1.	git add .
+2.	git commit -m “YOUR MESSAGE”
+3.	git push -u origin master
